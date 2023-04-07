@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		153AEDB729E02B9900DBD281 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153AEDB629E02B9900DBD281 /* MapForItinerary.swift */; };
 		153E4F9C29E015DA00D15D4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153E4F9B29E015DA00D15D4C /* AppDelegate.swift */; };
 		153E4F9E29E015DA00D15D4C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153E4F9D29E015DA00D15D4C /* SceneDelegate.swift */; };
 		153E4FA029E015DA00D15D4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153E4F9F29E015DA00D15D4C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		153AEDB629E02B9900DBD281 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		153E4F9829E015DA00D15D4C /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		153E4F9B29E015DA00D15D4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		153E4F9D29E015DA00D15D4C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				153E4F9B29E015DA00D15D4C /* AppDelegate.swift */,
 				153E4F9D29E015DA00D15D4C /* SceneDelegate.swift */,
+				153AEDB629E02B9900DBD281 /* MapForItinerary.swift */,
 				153E4F9F29E015DA00D15D4C /* ViewController.swift */,
 				153E4FA129E015DA00D15D4C /* Main.storyboard */,
 				153E4FA429E015DB00D15D4C /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				153AEDB729E02B9900DBD281 /* MapForItinerary.swift in Sources */,
 				153E4FA029E015DA00D15D4C /* ViewController.swift in Sources */,
 				153E4F9C29E015DA00D15D4C /* AppDelegate.swift in Sources */,
 				153E4F9E29E015DA00D15D4C /* SceneDelegate.swift in Sources */,
